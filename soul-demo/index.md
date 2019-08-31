@@ -34,7 +34,7 @@
 * [第6期：动作参数与事件匹配](https://pan.baidu.com/s/1slPtump)
 * [第7期：关于实数与整数的转换](https://pan.baidu.com/s/1bpm6pMB)
 * [第8期：触发器的运用](https://pan.baidu.com/s/1nvzJeNv)
-* 第9期：[闪电效果](https://pan.baidu.com/s/1jItdEYy)、[特殊效果](https://pan.baidu.com/s/* 1jICawCY)
+* 第9期：[闪电效果](https://pan.baidu.com/s/1jItdEYy)、[特殊效果](https://pan.baidu.com/s/1jICawCY)
 * [第10期：限定只能召唤一个自定义英雄](https://pan.baidu.com/s/1eSbAJ6q)
 * [第11期：设置玩家联盟状态](https://pan.baidu.com/s/1kUTthNT)
 * [第12期：可见度](https://pan.baidu.com/s/1kUTthOF)
